@@ -1,0 +1,27 @@
+body{
+    background: pink;
+    color: rgb(216, 130, 0);
+}
+#name_of_objects , .result_object_name , .result_object_accuracy
+{
+    color: red;
+}
+
+h3
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+}
+
+#camera
+{
+    width: 350px;
+    height: 250px;
+    border: 2px solid yellow;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
